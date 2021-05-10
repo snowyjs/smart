@@ -1,0 +1,25 @@
+{
+  "name": "smartplus",
+  "version": "2.0.0",
+  "description": "A JavaScript Discord Libary",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snowyjs/SmartPlus.git"
+  },
+  "keywords": [
+    "Smart+",
+    "Smart",
+    "Plus",
+    "SmartPlus"
+  ],
+  "author": "Snowy#4099",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snowyjs/SmartPlus/issues"
+  },
+  "homepage": "https://github.com/snowyjs/SmartPlus#readme"
+}
